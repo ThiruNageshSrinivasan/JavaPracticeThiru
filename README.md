@@ -4,3 +4,4 @@ This mini project demonstrates the core behavior of essential Java keywords thro
 - static: Belongs to the class, shared across all instances
 - Non-static: Instance-level data and behavior, unique per object
 Perfect for beginners looking to understand Java fundamentals through clean code and practical use cases.
+# JavaPracticeThiru
